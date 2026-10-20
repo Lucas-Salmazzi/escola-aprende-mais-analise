@@ -1,6 +1,6 @@
 # Análise de Matrículas — Escola Aprende Mais
 
-![Logo](logo/logo_horizontal.png)
+![Logo](logo/LOGO_ESCOLA.svg)
 
 > Projeto de análise de dados com **SQL Server** e **Power BI** sobre uma escola online de cursos (dados fictícios gerados para estudo).
 
@@ -17,7 +17,7 @@ Base fictícia com 3 tabelas (2025): `cursos` (12), `alunos` (150) e `matriculas
 ## O que eu fiz
 1. Criei o banco e as tabelas com chaves primárias e estrangeiras.
 2. Tratei inconsistências: 6 cidades fora do padrão de maiúsculas/minúsculas e 6 formas de pagamento vazias (preenchidas com "Nao informado").
-3. Respondi 15 perguntas de negócio com SQL, de consultas simples a funções de janela.
+3. Respondi perguntas de negócio com SQL, de consultas simples a funções de janela.
 4. Modelei os dados no Power BI (esquema estrela, `matriculas` como fato) e criei 12 medidas DAX: Receita, Matrículas Ativas, Ticket Médio, % Cancelamento, Nota Média, Receita do Mês Anterior, Variação % Mês, Alunos Ativos, Gasto Médio por Aluno, entre outras.
 5. Construí um dashboard de 3 páginas: **Visão Geral**, **Cursos** e **Alunos**.
 
@@ -31,24 +31,33 @@ Base fictícia com 3 tabelas (2025): `cursos` (12), `alunos` (150) e `matriculas
 Receita R$ 110.090,20 · 551 matrículas ativas · ticket médio R$ 199,80 · cancelamento 8,2% · nota média 7,77
 
 ## Dashboard
-![Visão Geral](prints/visao-geral.png)
-![Cursos](prints/cursos.png)
-![Alunos](prints/alunos.png)
+### Visão Geral
+![Visão Geral](prints/pagina_visao_geral.png)
+
+### Cursos
+![Cursos](prints/pagina_cursos.png)
+
+### Alunos
+![Alunos](prints/pagina_alunos.png)
+
+### Modelo de dados (esquema estrela)
+![Modelagem](prints/modelagem.png)
 
 ## Estrutura do repositório
 ```
 ├── dados/       cursos.csv, alunos.csv, matriculas.csv
-├── sql/         01_criar_banco_escola.sql, 02_gabarito_sql.sql
+├── sql/         query_criacao.sql, query_analise.sql
 ├── powerbi/     escola_aprende_mais.pbix
 ├── prints/      imagens do dashboard
-├── logo/        identidade visual
+├── logo/        logo e ícones do dashboard
 └── README.md
 ```
 
 ## Como reproduzir
-1. Execute `sql/01_criar_banco_escola.sql` no SQL Server.
-2. Rode a limpeza do `sql/02_gabarito_sql.sql` (seção 5).
+1. Execute `sql/query_criacao.sql` no SQL Server para criar o banco e carregar os dados.
+2. Rode `sql/query_analise.sql` para ver as consultas de análise e limpeza.
 3. Abra o `.pbix` e atualize a conexão para o seu servidor.
 
 ## Contato
-[Seu nome] · [LinkedIn] · [e-mail]
+**Lucas Leonardo Bertolini Salmazzi**  
+[LinkedIn](https://www.linkedin.com/in/lucas-leonardo-bertolini-salmazzi-5a6146312) · lucaslbsalmazzi@gmail.com
