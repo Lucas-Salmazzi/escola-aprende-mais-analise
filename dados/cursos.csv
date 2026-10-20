@@ -1,0 +1,13 @@
+﻿curso_id;nome_curso;categoria;preco;carga_horaria
+1;Excel do Zero ao Avancado;Dados;197,0;30
+2;SQL para Analise de Dados;Dados;247,0;36
+3;Power BI na Pratica;Dados;297,0;40
+4;Python para Iniciantes;Programacao;227,0;45
+5;Logica de Programacao;Programacao;147,0;24
+6;Desenvolvimento Web Basico;Programacao;267,0;50
+7;Marketing Digital Essencial;Negocios;177,0;28
+8;Gestao de Projetos;Negocios;207,0;32
+9;Financas Pessoais;Negocios;97,0;16
+10;Ingles para Tecnologia;Idiomas;157,0;40
+11;Design Grafico com Canva;Design;127,0;20
+12;Introducao ao UX Design;Design;237,0;34

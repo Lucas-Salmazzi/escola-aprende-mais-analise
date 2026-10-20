@@ -1,0 +1,151 @@
+﻿aluno_id;nome;cidade;estado;data_cadastro
+1;Diego Araujo;Belo Horizonte;MG;2025-06-20
+2;Ursula Santos;Sao Paulo;SP;2025-08-04
+3;Thiago Barbosa;Rio de Janeiro;RJ;2025-11-06
+4;Sofia Barbosa;Recife;PE;2025-11-02
+5;Zeca Rocha;Recife;PE;2025-10-31
+6;Sofia Martins;Campinas;SP;2024-10-02
+7;Thiago Oliveira;Sao Paulo;SP;2025-02-25
+8;Caio Santos;Rio de Janeiro;RJ;2024-10-06
+9;Caio Rocha;Salvador;BA;2025-03-10
+10;Gabriela Carvalho;Campinas;SP;2025-03-28
+11;Fernanda Ferreira;Brasilia;DF;2025-04-11
+12;Yuri Ribeiro;Porto Alegre;RS;2024-11-09
+13;Yuri Araujo;Sao Paulo;SP;2025-07-13
+14;Rafael Lima;Campinas;SP;2025-05-23
+15;Eduarda Lima;Sao Paulo;SP;2025-12-09
+16;Wanessa Ferreira;Rio de Janeiro;RJ;2025-05-25
+17;Nicolas Oliveira;Rio de Janeiro;RJ;2025-07-27
+18;Rafael Rocha;sao paulo;SP;2025-05-06
+19;Quiteria Rocha;Rio de Janeiro;RJ;2025-06-26
+20;Isabela Gomes;Curitiba;PR;2025-06-03
+21;Quiteria Ribeiro;Brasilia;DF;2024-10-13
+22;Sofia Almeida;fortaleza;CE;2024-12-06
+23;Caio Souza;Salvador;BA;2025-06-25
+24;Eduardo Santos;Salvador;BA;2025-08-15
+25;Nicolas Rocha;Sao Paulo;SP;2025-06-04
+26;Eduardo Almeida;Sao Paulo;SP;2025-08-17
+27;Wanessa Martins;Salvador;BA;2025-05-29
+28;Wanessa Barbosa;Campinas;SP;2025-07-14
+29;Mariana Lima;Curitiba;PR;2025-11-14
+30;Ursula Ribeiro;Salvador;BA;2025-06-03
+31;Beatriz Carvalho;Rio de Janeiro;RJ;2025-01-12
+32;Joao Nascimento;Sao Paulo;SP;2024-10-17
+33;Eduarda Martins;Brasilia;DF;2025-06-25
+34;Fernanda Rocha;Rio de Janeiro;RJ;2025-01-11
+35;Isabela Rocha;Belo Horizonte;MG;2025-06-19
+36;Beatriz Gomes;Curitiba;PR;2025-09-05
+37;Fernanda Souza;Brasilia;DF;2025-02-26
+38;Karina Martins;Brasilia;DF;2024-11-20
+39;Olivia Ribeiro;Campinas;SP;2025-05-20
+40;Fernanda Costa;Rio de Janeiro;RJ;2025-12-06
+41;Yuri Rocha;Sao Paulo;SP;2025-08-29
+42;Lucas Santos;Sao Paulo;SP;2025-10-18
+43;Daniela Gomes;Sao Paulo;SP;2025-05-19
+44;Fernanda Silva;Sao Paulo;SP;2024-10-01
+45;Olivia Barbosa;Sao Paulo;SP;2025-08-09
+46;Beatriz Rodrigues;Campinas;SP;2024-12-01
+47;Thiago Souza;Recife;PE;2025-07-07
+48;Isabela Ferreira;Sao Paulo;SP;2024-10-03
+49;Karina Rocha;Salvador;BA;2025-10-04
+50;Eduarda Barbosa;Sao Paulo;SP;2025-05-31
+51;Sofia Pereira;Curitiba;PR;2025-09-20
+52;Quiteria Lima;Sao Paulo;SP;2025-05-02
+53;Vinicius Costa;Sao Paulo;SP;2025-11-06
+54;Beatriz Lima;Belo Horizonte;MG;2025-04-29
+55;Mariana Pereira;Belo Horizonte;MG;2025-11-18
+56;Ana Santos;Rio de Janeiro;RJ;2024-11-07
+57;Bruno Ferreira;Porto Alegre;RS;2025-03-30
+58;Ana Ribeiro;Belo Horizonte;MG;2025-03-17
+59;Vinicius Lima;Rio de Janeiro;RJ;2025-03-16
+60;Fernanda Santos;Belo Horizonte;MG;2025-05-27
+61;Sofia Costa;Sao Paulo;SP;2025-07-30
+62;Quiteria Rodrigues;Rio de Janeiro;RJ;2025-08-16
+63;Thiago Almeida;Salvador;BA;2025-09-29
+64;Carla Barbosa;Rio de Janeiro;RJ;2024-10-18
+65;Gabriela Costa;Sao Paulo;SP;2025-08-28
+66;Rafael Souza;Rio de Janeiro;RJ;2025-10-22
+67;Ursula Rodrigues;Belo Horizonte;MG;2025-09-30
+68;Vinicius Silva;Sao Paulo;SP;2025-08-27
+69;Beatriz Ribeiro;Sao Paulo;SP;2024-12-22
+70;Mariana Nascimento;Rio de Janeiro;RJ;2025-06-30
+71;Felipe Ferreira;Sao Paulo;SP;2025-02-12
+72;Olivia Rocha;Fortaleza;CE;2025-11-22
+73;Nicolas Lima;Belo Horizonte;MG;2024-12-30
+74;Karina Ribeiro;Belo Horizonte;MG;2025-05-16
+75;Diego Ribeiro;Brasilia;DF;2025-06-26
+76;Beatriz Nascimento;Brasilia;DF;2024-11-18
+77;Daniela Rodrigues;Sao Paulo;SP;2024-10-03
+78;Carla Martins;Porto Alegre;RS;2025-03-19
+79;Nicolas Barbosa;Fortaleza;CE;2025-12-01
+80;Daniela Costa;Sao Paulo;SP;2025-03-30
+81;Lucas Barbosa;Salvador;BA;2025-07-21
+82;Beatriz Barbosa;Sao Paulo;SP;2024-11-26
+83;Thiago Nascimento;Curitiba;PR;2025-10-20
+84;Sofia Rodrigues;Curitiba;PR;2025-02-28
+85;Sofia Nascimento;Salvador;BA;2025-07-12
+86;Eduarda Santos;Fortaleza;CE;2025-02-13
+87;Diego Gomes;Sao Paulo;SP;2024-11-24
+88;Vinicius Souza;Fortaleza;CE;2025-04-01
+89;Yuri Costa;PORTO ALEGRE;RS;2025-08-19
+90;Karina Nascimento;Curitiba;PR;2025-12-03
+91;Carla Lima;Rio de Janeiro;RJ;2024-12-22
+92;Isabela Nascimento;sao paulo;SP;2024-10-08
+93;Nicolas Nascimento;Rio de Janeiro;RJ;2024-10-08
+94;Bruno Santos;Campinas;SP;2024-10-12
+95;Joao Santos;Sao Paulo;SP;2025-09-17
+96;Rafael Ferreira;Rio de Janeiro;RJ;2025-11-04
+97;Olivia Souza;Rio de Janeiro;RJ;2025-03-11
+98;Thiago Rodrigues;Curitiba;PR;2025-05-25
+99;Nicolas Santos;Salvador;BA;2025-04-10
+100;Daniela Ribeiro;Salvador;BA;2025-02-06
+101;Caio Ferreira;Sao Paulo;SP;2025-10-12
+102;Wanessa Gomes;Sao Paulo;SP;2025-02-22
+103;Wanessa Araujo;Campinas;SP;2025-10-08
+104;Zeca Santos;Campinas;SP;2025-10-29
+105;Nicolas Araujo;Curitiba;PR;2024-10-11
+106;Rafael Araujo;Sao Paulo;SP;2025-07-15
+107;Felipe Santos;Sao Paulo;SP;2024-10-20
+108;Eduarda Ribeiro;Rio de Janeiro;RJ;2025-08-02
+109;Ursula Lima;Sao Paulo;SP;2025-05-06
+110;Lucas Gomes;Rio de Janeiro;RJ;2025-04-12
+111;Henrique Gomes;Porto Alegre;RS;2025-01-21
+112;Zeca Pereira;Sao Paulo;SP;2025-07-05
+113;Ana Barbosa;Salvador;BA;2025-07-12
+114;Beatriz Pereira;Sao Paulo;SP;2024-10-12
+115;Ana Nascimento;Belo Horizonte;MG;2025-06-03
+116;Karina Pereira;Porto Alegre;RS;2025-07-31
+117;Carla Costa;CURITIBA;PR;2024-10-20
+118;Caio Nascimento;Rio de Janeiro;RJ;2025-08-21
+119;Quiteria Araujo;Sao Paulo;SP;2025-09-02
+120;Caio Silva;Porto Alegre;RS;2025-02-02
+121;Pedro Souza;Sao Paulo;SP;2025-09-13
+122;Quiteria Pereira;Recife;PE;2025-04-23
+123;Beatriz Almeida;Curitiba;PR;2025-11-29
+124;Isabela Araujo;Sao Paulo;SP;2025-04-10
+125;Lucas Martins;Porto Alegre;RS;2025-05-23
+126;Eduardo Lima;Sao Paulo;SP;2024-12-21
+127;Ursula Gomes;Sao Paulo;SP;2025-06-06
+128;Eduardo Silva;Rio de Janeiro;RJ;2025-11-21
+129;Caio Ribeiro;Salvador;BA;2025-04-28
+130;Beatriz Souza;Porto Alegre;RS;2024-12-28
+131;Yuri Nascimento;Sao Paulo;SP;2025-10-01
+132;Yuri Santos;Sao Paulo;SP;2025-07-01
+133;Gabriela Lima;Curitiba;PR;2024-10-23
+134;Mariana Carvalho;Belo Horizonte;MG;2025-06-22
+135;Beatriz Costa;Belo Horizonte;MG;2024-11-23
+136;Carla Pereira;Recife;PE;2025-04-18
+137;Karina Barbosa;Campinas;SP;2025-03-08
+138;Bruno Rodrigues;Sao Paulo;SP;2025-02-27
+139;Joao Barbosa;Campinas;SP;2025-04-01
+140;Eduarda Carvalho;Sao Paulo;SP;2025-10-18
+141;Ursula Silva;Curitiba;PR;2025-08-28
+142;Pedro Gomes;Rio de Janeiro;RJ;2025-11-20
+143;Zeca Barbosa;Sao Paulo;SP;2025-10-05
+144;Quiteria Silva;Sao Paulo;SP;2025-03-11
+145;Rafael Pereira;Sao Paulo;SP;2024-10-15
+146;Carla Ferreira;Campinas;SP;2025-01-19
+147;Diego Oliveira;Rio de Janeiro;RJ;2025-02-12
+148;Thiago Lima;Porto Alegre;RS;2024-11-30
+149;Lucas Rocha;Belo Horizonte;MG;2024-12-01
+150;Rafael Ribeiro;CAMPINAS;SP;2025-11-29
